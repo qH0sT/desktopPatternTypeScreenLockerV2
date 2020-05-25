@@ -1,0 +1,10 @@
+c:\users\harun\documents\visual studio 2015\Projects\screenlock\screenlock\bin\Debug\screenlock.exe.config
+c:\users\harun\documents\visual studio 2015\Projects\screenlock\screenlock\bin\Debug\screenlock.exe
+c:\users\harun\documents\visual studio 2015\Projects\screenlock\screenlock\bin\Debug\screenlock.pdb
+c:\users\harun\documents\visual studio 2015\Projects\screenlock\screenlock\obj\Debug\screenlock.csprojResolveAssemblyReference.cache
+c:\users\harun\documents\visual studio 2015\Projects\screenlock\screenlock\obj\Debug\screenlock.Form1.resources
+c:\users\harun\documents\visual studio 2015\Projects\screenlock\screenlock\obj\Debug\screenlock.Properties.Resources.resources
+c:\users\harun\documents\visual studio 2015\Projects\screenlock\screenlock\obj\Debug\screenlock.csproj.GenerateResource.Cache
+c:\users\harun\documents\visual studio 2015\Projects\screenlock\screenlock\obj\Debug\screenlock.exe
+c:\users\harun\documents\visual studio 2015\Projects\screenlock\screenlock\obj\Debug\screenlock.pdb
+c:\users\harun\documents\visual studio 2015\Projects\screenlock\screenlock\obj\Debug\screenlock.Form2.resources
